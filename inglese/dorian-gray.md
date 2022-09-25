@@ -36,7 +36,9 @@ When Dorian invites his friends to watch Sibyl act, her performance was terrible
 Heartbroken, Sibyl kills herself. Dorian is horrified when he finds out about her death, he hide the portrait in a place where no one could see it.
 Dorian receives a package from Henry that includes results of the inquest into Sibyl's death along with a French novel. Dorian starts to become obsessed and influenced by this book. As a result, Dorian enters a long period of decadent and scandalous acts.
 On the evening before his 38th birthday, Dorian runs into Basil who warns him about the scandalous stories circulating about him. Dorian says he keeps a diary of his soul and he leads his friend to look at the portrait. Basil is horrified from its monstrous ugliness. Dorian reminds Basil of the wish he made.
-Later, Dorian <dfn title="accoltella">stabs</dfn> Basil to death
+Later, Dorian stabs[^2] Basil to death
+
+[^2]: accoltella
 
 | Character | Description |
 | --------- | ----------- |
