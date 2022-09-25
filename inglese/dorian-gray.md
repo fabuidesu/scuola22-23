@@ -16,7 +16,7 @@
 + he then left for America;
 + he returned to England where he became known as an important proponent of the *Aesthetic Movement*[^1];
 + he went to Paris and meet other French writes;
-+ he returned to England where he married Constance LLoyd and had two sons.
++ he returned to England where he married Constance Lloyd and had two sons.
 
 *The Picture of Dorian Gray* is **his only novel** and his most famous book. The novel was considered **scandalous and immoral** at the time, particularly for its homosexual allusions.
 
@@ -34,7 +34,7 @@ England, 19th century, Lord Henry Wotton is visiting his friend Basil Hallward w
 
 Attending a show in a poor theatre of London, Dorian falls in love with the actress Sibyl Vane. The actress refers to Dorian as *Prince Charming* as she doesn't know his name. Dorian tells his friends they will marry.
 
-When Dorian invites his friends to watch Sibyl act, her performance was terrible. Sibyl tells Dorian she used to act to escape from life, but now her life is wonderful with this love and she no longer can't act as she always did. What Dorian loved about Sibyl was her acting skills, so he breaks up their engagement. When he gets home and look at his portrait, he finds a new line on the picture. Cruelty is now visible in the painted face.
+When Dorian invites his friends to watch Sibyl act, her performance was terrible. Sibyl tells Dorian she used to act to escape from life, but now her life is wonderful with this love and she no longer can't act as she always did. What Dorian loved about Sibyl was her acting skills, so he breaks up their engagement. When he gets home and look at his portrait, he finds a new line on the picture. Cruelty is now visible on the painted face.
 
 Heartbroken, Sibyl kills herself. Dorian is horrified when he finds out about her death, he hide the portrait in a place where no one could see it.
 
@@ -42,6 +42,8 @@ Dorian receives a package from Henry that includes results of the inquest into S
 
 On the evening before his 38th birthday, Dorian runs into Basil who warns him about the scandalous stories circulating about him. Dorian says he keeps a diary of his soul and he leads his friend to look at the portrait. Basil is horrified from its monstrous ugliness. Dorian reminds Basil of the wish he made.
 Later, Dorian stabs[^2] Basil to death.
+
+Dorian contacts Alan Campbell, a scientist with whom he used to be very close and blackmails him into getting rid of Basil's corpse.
 
 [^2]: accoltella
 
@@ -51,4 +53,5 @@ Later, Dorian stabs[^2] Basil to death.
 | Basil Hallward | The painter |
 | Henry Wotton | Dorian's *mentor* |
 | Sibyl Vane | Dorian's *girlfriend* |
-
+| James Vane | Sibyl's brother |
+| Alan Campbell | Scientist who gets rid of Basil's corpse |
