@@ -36,7 +36,7 @@ The Crystal Palace, built to host the Great Exhibition of 1851, was one of the g
 The English language also expanded: as new country started to speak English, there was the need of new words because other countries had different flora, fauna and foods. Many new accents were introduced as well.
 
 The novel became the most popular literary genre of the time. People usually read novels in groups. Embarassing topics were often avoided, especially in novels for women and children.
-The Bronte sisters[^3] written many stories and novels filled with emotions.
+The Bronte sisters[^2] written many stories and novels filled with emotions.
 Literature for children became very important. It served to educate them. The stories were gender-specific:
 + girls stories tended to promote the role of women as wives, focused on family life;
 + boys stories were more about adventures encouraging recruits for the navy and the army.
@@ -45,7 +45,7 @@ Several publications on magazines and newspapers were how most novelist at the t
 
 Victorian Era focused on social issues: the Industrial Revolution had led to an increase in the density of the urban population, resulting in an extremely high level of poverty. In 1834, the Poor Law were introduced, which gave food and board to the poor in jail-like conditions in exchange for very unpleasant jobs.
 
-[^3]: Charlotte Bronte, Emily Bronte and Anne Bronte.
+[^2]: Charlotte Bronte, Emily Bronte and Anne Bronte.
 
 ## **Plot of the book**
 England, 19th century, Lord Henry Wotton is visiting his friend Basil Hallward who is painting a portrait of Dorian Gray. Henry admires the painting, but Basil worries he left his feelings for Dorian sip into the picture. During the story, Henry chats with Dorian as he poses for the portrait. Henry praises Dorian's beauty. When Dorian sees the finished picture, he wish he would stay young while the portrait would age at his place, he would've give his soul for this to happen.
@@ -59,11 +59,19 @@ Heartbroken, Sibyl kills herself. Dorian is horrified when he finds out about he
 Dorian receives a package from Henry that includes results of the inquest into Sibyl's death along with a French novel. Dorian starts to become obsessed and influenced by this book. As a result, Dorian enters a long period of decadent and scandalous acts.
 
 On the evening before his 38th birthday, Dorian runs into Basil who warns him about the scandalous stories circulating about him. Dorian says he keeps a diary of his soul and he leads his friend to look at the portrait. Basil is horrified from its monstrous ugliness. Dorian reminds Basil of the wish he made.
-Later, Dorian stabs[^2] Basil to death.
+Later, Dorian stabs[^3] Basil to death.
 
 Dorian contacts Alan Campbell, a scientist with whom he used to be very close and blackmails him into getting rid of Basil's corpse.
 
-[^2]: accoltella
+Later, Dorian goes to an opium den[^4] and then James Vane, who wants to kill Dorian for causing her sister's death, corners him. However, when Dorian shows James his youthfuk face, James concludes he couldn't be Dorian.
+
+A week later Dorian, terrified, stays home for three days before joining a group of hunters to shoot games. His friend shoots at a hare, accidentally wounding a man hiding in the bushes. That man is James Vane.
+
+Reflecting on all the lives he has ruined, Dorian decides to change his life and destroy the painting. His servants enter through a window to find Basil's portrait of Dorian, which is young and beautiful. A repulsive old body lies near the painting. Only the rings on the corpse's hands identify the dead man as Dorian Gray.
+
+[^4]: place where opium is sold and smoked.
+
+[^3]: accoltella
 
 | Character | Description |
 | --------- | ----------- |
