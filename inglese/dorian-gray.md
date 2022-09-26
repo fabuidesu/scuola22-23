@@ -27,7 +27,24 @@ After, he went to live in Paris, where he died of meningitis following an ear op
 [^1]: The Aesthetic Movement was a movement in art and literature that believed in "**Art for art's sake**" - fare arte per l'arte stessa - or the devotion to beauty for itself, not for any moral or social principal.
 ## **Victorian Age**
 
-> Ancora da scrivere
+The Victorian Age starts in 1838 and takes the name from Queen Victoria. It was a period of great advancement in many fields such as medical, scientific and technological. The British Empire was expanding to Canada, Australia, New Zealand, parts of Africa and the Caribbean. It meant to the Empire a geographical, commercial and political growth.
+
+The Crystal Palace, built to host the Great Exhibition of 1851, was one of the greatest engineering feats of the 19th century. Important technological innovations were:
++ railways and trains;
++ Royal Mail.
+The English language also expanded: as new country started to speak English, there was the need of new words because other countries had different flora, fauna and foods. Many new accents were introduced as well.
+
+The novel became the most popular literary genre of the time. People usually read novels in groups. Embarassing topics were often avoided, especially in novels for women and children.
+The Bronte sisters[^3] written many stories and novels filled with emotions.
+Literature for children became very important. It served to educate them. The stories were gender-specific:
++ girls stories tended to promote the role of women as wives, focused on family life;
++ boys stories were more about adventures encouraging recruits for the navy and the army.
+
+Several publications on magazines and newspapers were how most novelist at the time published their work. We can compare the stories to today's TV series: coming out every week, leaving something to discover in the following episode. Charles Dickens was one of the main writer of that period.
+
+Victorian Era focused on social issues: the Industrial Revolution had led to an increase in the density of the urban population, resulting in an extremely high level of poverty. In 1834, the Poor Law were introduced, which gave food and board to the poor in jail-like conditions in exchange for very unpleasant jobs.
+
+[^3]: Charlotte Bronte, Emily Bronte and Anne Bronte.
 
 ## **Plot of the book**
 England, 19th century, Lord Henry Wotton is visiting his friend Basil Hallward who is painting a portrait of Dorian Gray. Henry admires the painting, but Basil worries he left his feelings for Dorian sip into the picture. During the story, Henry chats with Dorian as he poses for the portrait. Henry praises Dorian's beauty. When Dorian sees the finished picture, he wish he would stay young while the portrait would age at his place, he would've give his soul for this to happen.
