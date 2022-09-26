@@ -32,6 +32,7 @@ The Victorian Age starts in 1838 and takes the name from Queen Victoria. It was 
 The Crystal Palace, built to host the Great Exhibition of 1851, was one of the greatest engineering feats of the 19th century. Important technological innovations were:
 + railways and trains;
 + Royal Mail.
+
 The English language also expanded: as new country started to speak English, there was the need of new words because other countries had different flora, fauna and foods. Many new accents were introduced as well.
 
 The novel became the most popular literary genre of the time. People usually read novels in groups. Embarassing topics were often avoided, especially in novels for women and children.
